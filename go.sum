@@ -1,0 +1,4 @@
+github.com/profe-ajedrez/gyro v1.0.3 h1:AKkpZ4xJl4dDatHx2w0AMeUIyOBf+5AGiT8GWqxbavU=
+github.com/profe-ajedrez/gyro v1.0.3/go.mod h1:r7l6T8xY87js2PsKM5W6GeIROMMRLNVpJ1DZfzVVD5w=
+golang.org/x/exp v0.0.0-20240613232115-7f521ea00fb8 h1:yixxcjnhBmY0nkL253HFVIm0JsFHwrHdT3Yh6szTnfY=
+golang.org/x/exp v0.0.0-20240613232115-7f521ea00fb8/go.mod h1:jj3sYF3dwk5D+ghuXyeI3r5MFf+NT2An6/9dOA95KSI=
