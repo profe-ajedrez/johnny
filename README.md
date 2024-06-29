@@ -1,5 +1,8 @@
 # Johnny 
 
+The no nosense sales subtotals calculator.
+
+> I'm still negative! I want to get up to zero
 
 
 ```
@@ -42,7 +45,7 @@ Provides a set of types and functions to calculate sales subtotals, including ta
 
 ## Features
 
-* Minimal dependencies: Only alpacadecimal as backend for calculations.
+* Minimal dependencies: Only [Gyro decimal](https://github.com/profe-ajedrez/gyro) as backend for calculations.
 
 * Decimal Arithmetic: The Johnny module provides a set of types and functions for decimal arithmetic, including Decimal types for representing decimal values and functions for adding, subtracting, multiplying, and dividing decimal values.
 
