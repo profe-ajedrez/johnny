@@ -539,7 +539,7 @@ func (t *DiscountHandlerFromUnitValue) TotalAmount() gyro.Gyro {
 }
 
 // do applies the given visitors to the Johnny object.
-func do(b Johnny, e1 Visitor) {
+func do(b Johnny, e1, e2 Visitor) {
 	b.Receive(e1)
 	b.Receive(e2)
 }
